@@ -23,4 +23,4 @@ Class Car -> "Honda", "Civic", 2000 ---- Instance 1
           -> "Toyota", "Corolla", 2004 ---- Instance 2
           -> "Dodge", "Charger", 2006 ----- Instance 3
 
-- As you can see above, we were able to create 3 instances from the same class, each with their own independent sets of data
+> As you can see above, we were able to create 3 instances from the same class, each with their own independent sets of data
